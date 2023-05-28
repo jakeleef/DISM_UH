@@ -11,3 +11,4 @@ Once the user has entered a selection(s), it runs DISM /Online /Remove-Provision
 
 There is almost no exception handling, partly because the program is VERY simple, and partly because there is an assumption of a certain level of computer literacy if you are using this script.
 
+The .exe is located int he dist folder. 
