@@ -1,4 +1,8 @@
 # DISM_UH
+
+# USE AT YOUR OWN RISK
+# Removing programs you don't know the purpose of is not recommended
+
 This tool is programmed in Python and generated as an .exe with PyInstaller. The purpose is to make the DISM command prompt tool easier to use by giving the user a list of packages that can be uninstalled so they don't have to enter each package manually, and can instead enter only their index on the list and the program takes care of the rest.
 
 To use this tool, you can either run the .exe as an admin, or run the python file as an admin in an IDE or using command prompt with admin privlages.
